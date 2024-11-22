@@ -11,15 +11,13 @@ At ArcoLinux, we have developed our own version of this TWM, tailored to meet ou
 
 # CODE
 
-The code can be found as part of ArcoLinux Nemesis here:
+The code can be found as part of ArcoLinux Nemesis.
 
-https://github.com/erikdubois/arcolinux-nemesis/tree/master/Personal/settings/
+https://github.com/erikdubois/arcolinux-nemesis
 
-Find the folder with the name of the distro + chadwm and go inside the folder.
+Open a terminal in the folder and run the starting script.
 
-Open a terminal in that folder and run the starting script.
-
-./1 and press twice on TAB and it will run the scripts. 
+./0 and press twice on TAB and it will run the scripts. 
 
 Or choose the scripts you want to run.
 
